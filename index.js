@@ -10,17 +10,17 @@ const swaggerOptions = {
   swaggerDefinition: {
     openapi: '3.0.0',
     info: {
-      title: 'Express API with Swagger',
+      title: 'Server lap trinh front-end',
       version: '1.0.0',
-      description: 'A simple CRUD API application made with Express and documented with Swagger',
+      description: 'server test cho mon lap trinh frontend',
       contact: {
-        name: 'Your Name',
-        url: 'https://yourwebsite.com',
-        email: 'yourname@yourwebsite.com',
+        name: 'Lap trinh front-end',
+        url: 'http://ec2-3-27-136-112.ap-southeast-2.compute.amazonaws.com:3000',
+        email: 'longhnh@lhu.edu.vn',
       },
       servers: [
         {
-          url: 'http://localhost:3000',
+          url: 'http://ec2-3-27-136-112.ap-southeast-2.compute.amazonaws.com:3000',
         },
       ],
     },
