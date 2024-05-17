@@ -14,7 +14,7 @@ const swaggerOptions = {
       version: '1.0.0',
       description: 'server test cho mon lap trinh frontend',
       contact: {
-        name: 'Lap trinh front-end',
+        name: 'admin',
         url: 'http://ec2-3-27-136-112.ap-southeast-2.compute.amazonaws.com:3000',
         email: 'longhnh@lhu.edu.vn',
       },
